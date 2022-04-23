@@ -1,0 +1,484 @@
+  /* desktop styles  */
+@media screen and (max-width: 1200px){ 
+    .header {
+        position: relative;
+        left: -222px;
+        top: 0px;
+    }
+    #rectangle_3 {
+        width: 100%;
+    }
+    #rectangle_4 {
+        width: 100%;
+    }
+    #text_1 {
+        position: absolute;
+        left: 313px;
+        top: 469px;
+    }
+    #img2 {
+        position: absolute;
+        left: 29px;
+        top: 916px;
+    }
+    #img16 {
+        position: absolute;
+        left: -777px;
+        top: -27px;
+    }
+    #img17 {
+        position: absolute;
+        left: -711px;
+        top: -26px;
+    }
+    #img23 {
+      position: absolute;
+      left: 554px;
+      top: 92px;
+    } 
+    #img24 {
+      position: absolute;
+      left: 624px;
+      top: 92px;
+    } 
+    #img25 {
+      position: absolute;
+      left: 693px;
+      top: 92px;
+    } 
+    #text_2 {
+        position: absolute;
+        left: 510px;
+        top: 930px;
+    }
+    #text_3 {
+        position: absolute;
+        left: 514px;
+        top: 1116px;
+      }
+    #text_6 {
+        position: absolute;
+        left: 216px;
+        top: 292px;
+      }
+    #text_7 {
+        position: absolute;
+        left: 215px;
+        top: 364px;
+      }
+    #text_8 {
+        position: absolute;
+        left: 728px;
+        top: 292px;
+      }
+    #text_9 {
+        position: absolute;
+        left: 719px;
+        top: 364px;
+      }
+    #text_10 {
+        position: absolute;
+        left: 213px;
+        top: 700px;
+      }
+    #text_11 {
+        position: absolute;
+        left: 216px;
+        top: 767px;
+      }
+    #text_13 {
+        position: absolute;
+        left: 724px;
+        top: 771px;
+      }
+    #text_12 {
+        position: absolute;
+        left: 741px;
+        top: 700px;
+      }
+      #text_18 {
+        position: absolute;      
+        left: 834px;
+        top: 158px;
+      }
+    #group1 {
+        position: absolute;
+        left: 5px;
+        top: 0px;
+    }
+    #group2 {
+        position: absolute;
+        left: -77px;
+        top: 0px;
+    }
+    #group3 {
+        position: absolute;
+        left: 5px;
+        top: 0px;
+    }
+    #group4 {
+        position: absolute;
+        left: -77px;
+        top: 0px;
+    }
+    #footer {
+      position: relative;
+      left: -205px;
+      top: 0px;
+    }
+    #links {
+      position: relative;
+      left: 0px;
+      top: 0px;
+    }
+} 
+ /* Medium Devices, Desktops */
+@media screen and (max-width: 992px){ 
+  #img2 {
+    position: absolute;
+    left: -49px;
+    top: 916px;
+  }
+  #img6 {
+    position: absolute;
+    left: 898px;
+    top: 331px;
+  }
+  #img13 {
+    position: absolute;
+    left: 902px;
+    top: 752px;
+  }
+  #img16 {
+    position: absolute;
+    left: -938px;
+    top: -27px;
+  }
+  #img17 {
+    position: absolute;
+    left: -870px;
+    top: -27px;
+  }
+  #text_2 {
+    position: absolute;
+    left: 455px;
+    top: 913px;
+  }
+  #text_3 {
+    position: absolute;
+    left: 421px;
+    top: 1099px;
+  }
+  #text_4 {
+    position: absolute;
+    left: -79px;
+    top: -33px;
+  }
+  #text_5 {
+    position: absolute;
+    left: 114px;
+    top: 80px;
+  }
+  #text_6 {
+    position: absolute;
+    left: 170px;
+    top: 292px;
+  }
+  #text_7 {
+    position: absolute;
+    left: 155px;
+    top: 364px;
+  }
+  #text_8 {
+    position: absolute;
+    left: 506px;
+    top: 292px;
+  }
+  #text_9 {
+    position: absolute;
+    left: 490px;
+    top: 371px;
+  }
+  #text_10 {
+    position: absolute;
+    left: 170px;
+    top: 697px;
+  }
+  #text_11 {
+    position: absolute;
+    left: 153px;
+    top: 779px;
+  }
+  #text_12 {
+    position: absolute;
+    left: 529px;
+    top: 700px;
+  }
+  #text_13 {
+    position: absolute;
+    left: 486px;
+    top: 771px;
+  }
+  #group1 {
+    position: absolute;
+    left: -60px;
+  }
+  #group2 {
+    position: absolute;
+    left: -206px;
+  }
+  #group3 {
+    position: absolute;
+    left: -67px;
+  }
+  #group4 {
+    position: absolute;
+    left: -212px;
+  }
+} 
+/* Small Devices, Tablets */
+@media screen and (max-width: 768px){ 
+  .header {
+    left: -253px;
+  }
+  #preview_text {
+    font-size: 50px;
+  }
+  #img2 {
+    opacity: 0;
+  }
+  #img16 {
+    position: absolute;
+    left: -1224px;
+    top: -27px;
+  }
+  #img17 {
+    position: absolute;
+    left: -1153px;
+    top: -27px;
+  }
+  #img23 {
+    position: absolute;
+    left: 355px;
+    top: 92px;
+  }
+  #img24 {
+    position: absolute;
+    left: 355px;
+    top: 175px;
+  }
+  #img25 {
+    position: absolute;
+    left: 355px;
+    top: 255px;
+  }
+  #text_2 {
+    position: absolute;
+    left: 29px;
+    top: 913px;
+  }
+  #text_3 {
+    position: absolute;
+    left: 11px;
+    top: 1099px;
+  }
+  #text_4 {
+    position: absolute;
+    left: -217px;
+    top: -33px;
+  }
+  #text_5 {
+    font-size: 3vw;
+    left: 15px;
+    top: 80px;
+  }
+  #text_6 {
+    position: absolute;
+    left: 239px;
+    top: 285px;
+  }
+  #text_7 {
+    position: absolute;
+    left: 224px;
+    top: 364px;
+  }
+  #text_8 {
+    position: absolute;
+    left: 107px;
+    top: 689px;
+  }
+  #text_9 {
+    position: absolute;
+    left: 57px;
+    top: 774px;
+  }
+  #text_10 {
+    position: absolute;
+    left: 255px;
+    top: 1095px;
+  }
+  #text_11 {
+    position: absolute;
+    left: 222px;
+    top: 1176px;
+  }
+  #text_12 {
+    position: absolute;
+    left: 102px;
+    top: 1498px;
+  }
+  #text_13 {
+    position: absolute;
+    left: 59px;
+    top: 1562px;
+  }
+  #text_18 {
+    position: absolute;
+    left: 563px;
+    top: 158px;
+  }
+  #group1 {
+    position: absolute;
+    left: 1px;
+  }
+  #group2 {
+    position: absolute;
+    left: -637px;
+    top: 406px;
+  }
+  #group3 {
+    position: absolute;
+    left: 0px;
+    top: 397px;
+  }
+  #group4 {
+    position: absolute;
+    left: -636px;
+    top: 797px;
+  }
+  #cd-user-modal-container-2 {
+    position: relative;
+    height: 800px;
+    line-height: 70px;
+  }
+} 
+/* Extra Small Devices, Phones */
+@media screen and (max-width: 480px){ 
+  .nav {
+    left: -387px;
+  }
+  #rectangle_1 {
+    opacity: 0;
+  }
+  #rectangle_2 {
+    opacity: 0;
+  }
+  #rectangle_5 {
+  left: 18px;
+  }
+  #nav__btn { 
+    left: -3px;
+  }
+  #welcome-img {
+    left: 305px;
+  }
+  #preview_text {
+    font-size: 30px;
+  }
+  #text_1 {
+    position: absolute;
+    left: 281px;
+    top: 469px;
+    font-size: 14px;
+  }
+  #text_2 {
+    font-size: 32px;
+  }
+  #text_3 {
+    font-size: 14px;
+  }
+  #text_4 {
+    position: absolute;
+    left: -305px;
+    top: -33px;
+  }
+  #text_5 {
+    left: 19px;
+    top: 97px;
+    word-wrap: break-word;
+    font-size: 14px;
+    width: 300px;
+  }
+  #text_6 {
+    position: absolute;
+    left: 135px;
+    top: 285px;
+  }
+  #text_7 {
+    position: absolute;
+    left: 96px;
+    top: 364px;
+  }
+  #group1 {
+    left: -100px;
+  }
+  #group3 {
+    left: -100px;
+  }
+  #text_10 {
+    position: absolute;
+    left: 141px;
+    top: 1095px;
+  }
+  #text_11 {
+    position: absolute;
+    left: 98px;
+    top: 1176px;
+  }
+  #text_14 {
+  left: -604px;
+  }
+  #img15 {
+    left: -597px;
+  }
+  #img16 {
+    position: absolute;
+    left: -1329px;
+    top: -27px;
+  }
+  #img17 {
+    position: absolute;
+    left: -1261px;
+    top: -27px;
+  }
+  #footer {
+    position: relative;
+    left: -205px;
+    top: -5px;
+  }
+  #text_18 {
+    position: absolute;
+    left: 324px;
+    top: 17px;
+  }
+  #img23 {
+    position: absolute;
+    left: 19px;
+    top: -66px;
+  }
+  #img24 {
+    position: absolute;
+    left: 115px;
+    top: -66px;
+  }
+  #img25 {
+    position: absolute;
+    left: 213px;
+    top: -66px;
+  }
+} 
+
+/* Custom, iPhone Retina */
+@media screen and (max-width: 320px){
+
+}
